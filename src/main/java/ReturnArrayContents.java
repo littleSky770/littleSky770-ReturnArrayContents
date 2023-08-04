@@ -29,6 +29,7 @@ public class ReturnArrayContents {
      */
     public String arrayToString(int[] nums){
         //String [] str = new String[nums.length];
+        
         String str = "";
         for(int i = 0; i < nums.length; i++)
         {
